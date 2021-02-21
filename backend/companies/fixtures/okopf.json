@@ -1,0 +1,1434 @@
+[
+{
+  "model": "companies.okopf",
+  "pk": 10000,
+  "fields": {
+    "parent_code": null,
+    "name": "ОРГАНИЗАЦИОННО-ПРАВОВЫЕ ФОРМЫ ЮРИДИЧЕСКИХ ЛИЦ, ЯВЛЯЮЩИХСЯ КОММЕРЧЕСКИМИ КОРПОРАТИВНЫМИ ОРГАНИЗАЦИЯМИ"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 11000,
+  "fields": {
+    "parent_code": 10000,
+    "name": "Хозяйственные товарищества"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 11051,
+  "fields": {
+    "parent_code": 11000,
+    "name": "Полные товарищества"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 11064,
+  "fields": {
+    "parent_code": 11000,
+    "name": "Товарищества на вере (коммандитные товарищества)"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 12000,
+  "fields": {
+    "parent_code": 10000,
+    "name": "Хозяйственные общества"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 12100,
+  "fields": {
+    "parent_code": 10000,
+    "name": "Общества с ограниченной или дополнительной ответственностью"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 12165,
+  "fields": {
+    "parent_code": 12100,
+    "name": "Общества с ограниченной ответственностью"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 12166,
+  "fields": {
+    "parent_code": 12100,
+    "name": "Общества с дополнительной ответственностью"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 12200,
+  "fields": {
+    "parent_code": 10000,
+    "name": "Акционерные общества"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 12247,
+  "fields": {
+    "parent_code": 12200,
+    "name": "Публичные акционерные общества"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 12267,
+  "fields": {
+    "parent_code": 12200,
+    "name": "Непубличные акционерные общества"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 12300,
+  "fields": {
+    "parent_code": 10000,
+    "name": "Общества с ограниченной ответственностью"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 13000,
+  "fields": {
+    "parent_code": 10000,
+    "name": "Хозяйственные партнерства"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 14000,
+  "fields": {
+    "parent_code": 10000,
+    "name": "Производственные кооперативы (артели)"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 14100,
+  "fields": {
+    "parent_code": 10000,
+    "name": "Сельскохозяйственные производственные кооперативы"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 14153,
+  "fields": {
+    "parent_code": 14100,
+    "name": "Сельскохозяйственные артели (колхозы)"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 14154,
+  "fields": {
+    "parent_code": 14100,
+    "name": "Рыболовецкие артели (колхозы)"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 14155,
+  "fields": {
+    "parent_code": 14100,
+    "name": "Кооперативные хозяйства (коопхозы)"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 14200,
+  "fields": {
+    "parent_code": 10000,
+    "name": "Производственные кооперативы (кроме сельскохозяйственных производственных кооперативов)"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 15000,
+  "fields": {
+    "parent_code": 10000,
+    "name": "Унитарные предприятия"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 15100,
+  "fields": {
+    "parent_code": 10000,
+    "name": "Унитарные предприятия, основанные на праве оперативного управления (казенные предприятия)"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 15141,
+  "fields": {
+    "parent_code": 15100,
+    "name": "Федеральные казенные предприятия"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 15142,
+  "fields": {
+    "parent_code": 15100,
+    "name": "Казенные предприятия субъектов Российской Федерации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 15143,
+  "fields": {
+    "parent_code": 15100,
+    "name": "Муниципальные казенные предприятия"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 15200,
+  "fields": {
+    "parent_code": 10000,
+    "name": "Унитарные предприятия, основанные на праве хозяйственного ведения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 15241,
+  "fields": {
+    "parent_code": 15200,
+    "name": "Федеральные государственные унитарные предприятия"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 15242,
+  "fields": {
+    "parent_code": 15200,
+    "name": "Государственные унитарные предприятия субъектов Российской Федерации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 15243,
+  "fields": {
+    "parent_code": 15200,
+    "name": "Муниципальные унитарные предприятия"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 15300,
+  "fields": {
+    "parent_code": 10000,
+    "name": "Крестьянские (фермерские) хозяйства"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 19000,
+  "fields": {
+    "parent_code": 10000,
+    "name": "Прочие юридические лица, являющиеся коммерческими организациями"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20000,
+  "fields": {
+    "parent_code": null,
+    "name": "ОРГАНИЗАЦИОННО-ПРАВОВЫЕ ФОРМЫ ЮРИДИЧЕСКИХ ЛИЦ, ЯВЛЯЮЩИХСЯ НЕКОММЕРЧЕСКИМИ КОРПОРАТИВНЫМИ ОРГАНИЗАЦИЯМИ"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20100,
+  "fields": {
+    "parent_code": 20000,
+    "name": "Потребительские кооперативы"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20101,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Гаражные и гаражно-строительные кооперативы"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20102,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Жилищные или жилищно-строительные кооперативы"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20103,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Жилищные накопительные кооперативы"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20104,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Кредитные потребительские кооперативы"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20105,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Кредитные потребительские кооперативы граждан"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20106,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Кредитные кооперативы второго уровня"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20107,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Потребительские общества"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20108,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Общества взаимного страхования"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20109,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Сельскохозяйственные потребительские перерабатывающие кооперативы"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20110,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Сельскохозяйственные потребительские сбытовые (торговые) кооперативы"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20111,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Сельскохозяйственные потребительские обслуживающие кооперативы"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20112,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Сельскохозяйственные потребительские снабженческие кооперативы"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20113,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Сельскохозяйственные потребительские садоводческие кооперативы"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20114,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Сельскохозяйственные потребительские огороднические кооперативы"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20115,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Сельскохозяйственные потребительские животноводческие кооперативы"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20116,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Сельскохозяйственные потребительские растениеводческие кооперативы"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20120,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Садоводческие, огороднические или дачные потребительские кооперативы"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20121,
+  "fields": {
+    "parent_code": 20100,
+    "name": "Фонды проката"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20200,
+  "fields": {
+    "parent_code": 20000,
+    "name": "Общественные организации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20201,
+  "fields": {
+    "parent_code": 20200,
+    "name": "Политические партии"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20202,
+  "fields": {
+    "parent_code": 20200,
+    "name": "Профсоюзные организации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20210,
+  "fields": {
+    "parent_code": 20200,
+    "name": "Общественные движения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20211,
+  "fields": {
+    "parent_code": 20200,
+    "name": "Органы общественной самодеятельности"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20217,
+  "fields": {
+    "parent_code": 20200,
+    "name": "Территориальные общественные самоуправления"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20300,
+  "fields": {
+    "parent_code": 20000,
+    "name": "Религиозные организации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20400,
+  "fields": {
+    "parent_code": 20000,
+    "name": "Фонды"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20401,
+  "fields": {
+    "parent_code": 20400,
+    "name": "Благотворительные фонды"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20402,
+  "fields": {
+    "parent_code": 20400,
+    "name": "Негосударственные пенсионные фонды"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20403,
+  "fields": {
+    "parent_code": 20400,
+    "name": "Общественные фонды"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20404,
+  "fields": {
+    "parent_code": 20400,
+    "name": "Экологические фонды"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20500,
+  "fields": {
+    "parent_code": 20000,
+    "name": "Некоммерческие партнерства"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20600,
+  "fields": {
+    "parent_code": 20000,
+    "name": "Ассоциации (союзы)"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20601,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Ассоциации (союзы) экономического взаимодействия субъектов Российской Федерации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20603,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Советы муниципальных образований субъектов Российской Федерации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20604,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Союзы (ассоциации) кредитных кооперативов"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20605,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Союзы (ассоциации) кооперативов"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20606,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Союзы (ассоциации) общественных объединений"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20607,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Союзы (ассоциации) общин малочисленных народов"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20608,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Союзы потребительских обществ"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20609,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Адвокатские палаты"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20610,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Нотариальные палаты"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20611,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Торгово-промышленные палаты"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20612,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Объединения работодателей"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20613,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Объединения фермерских хозяйств"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20614,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Некоммерческие партнерства"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20615,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Адвокатские бюро"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20616,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Коллегии адвокатов"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20617,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Садоводческие, огороднические или дачные некоммерческие партнерства"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20618,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Ассоциации (союзы) садоводческих, огороднических и дачных некоммерческих объединений"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20619,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Саморегулируемые организации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20620,
+  "fields": {
+    "parent_code": 20600,
+    "name": "Объединения (ассоциации и союзы) благотворительных организаций"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20700,
+  "fields": {
+    "parent_code": 20000,
+    "name": "Товарищества собственников недвижимости"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20701,
+  "fields": {
+    "parent_code": 20700,
+    "name": "Садоводческие, огороднические или дачные некоммерческие товарищества"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20702,
+  "fields": {
+    "parent_code": 20700,
+    "name": "Садоводческие или огороднические некоммерческие товарищества"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20716,
+  "fields": {
+    "parent_code": 20700,
+    "name": "Товарищества собственников жилья"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20800,
+  "fields": {
+    "parent_code": 20000,
+    "name": "Палаты"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20801,
+  "fields": {
+    "parent_code": 20800,
+    "name": "Адвокатские палаты"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20802,
+  "fields": {
+    "parent_code": 20800,
+    "name": "Нотариальные палаты"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20803,
+  "fields": {
+    "parent_code": 20800,
+    "name": "Торгово-промышленные палаты"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20900,
+  "fields": {
+    "parent_code": 20000,
+    "name": "Учреждения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20901,
+  "fields": {
+    "parent_code": 20900,
+    "name": "Автономные учреждения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20902,
+  "fields": {
+    "parent_code": 20900,
+    "name": "Благотворительные учреждения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20903,
+  "fields": {
+    "parent_code": 20900,
+    "name": "Бюджетные учреждения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20904,
+  "fields": {
+    "parent_code": 20900,
+    "name": "Казенные учреждения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20905,
+  "fields": {
+    "parent_code": 20900,
+    "name": "Общественные учреждения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20906,
+  "fields": {
+    "parent_code": 20900,
+    "name": "Частные учреждения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20907,
+  "fields": {
+    "parent_code": 20900,
+    "name": "Учреждения академий наук"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 20908,
+  "fields": {
+    "parent_code": 20900,
+    "name": "Учреждения религиозных организаций"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 21000,
+  "fields": {
+    "parent_code": 20000,
+    "name": "Садоводческие, огороднические или дачные объединения граждан"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 21001,
+  "fields": {
+    "parent_code": 21000,
+    "name": "Садоводческие, огороднические или дачные некоммерческие товарищества"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 21002,
+  "fields": {
+    "parent_code": 21000,
+    "name": "Садоводческие, огороднические или дачные потребительские кооперативы"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 21003,
+  "fields": {
+    "parent_code": 21000,
+    "name": "Садоводческие, огороднические или дачные некоммерческие партнерства"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 21100,
+  "fields": {
+    "parent_code": 20000,
+    "name": "Казачьи общества, внесенные в государственный реестр казачьих обществ в Российской Федерации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 21200,
+  "fields": {
+    "parent_code": 20000,
+    "name": "Общины коренных малочисленных народов Российской Федерации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 28000,
+  "fields": {
+    "parent_code": 20000,
+    "name": "Юридические лица, являющиеся некоммерческими организациями, не включенные в другие группировки"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 28001,
+  "fields": {
+    "parent_code": 28000,
+    "name": "Автономные некоммерческие организации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 28002,
+  "fields": {
+    "parent_code": 28000,
+    "name": "Адвокатские бюро"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 28003,
+  "fields": {
+    "parent_code": 28000,
+    "name": "Государственные академии наук"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 28004,
+  "fields": {
+    "parent_code": 28000,
+    "name": "Государственные компании"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 28005,
+  "fields": {
+    "parent_code": 28000,
+    "name": "Государственные корпорации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 28006,
+  "fields": {
+    "parent_code": 28000,
+    "name": "Казачьи общества"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 28007,
+  "fields": {
+    "parent_code": 28000,
+    "name": "Коллегии адвокатов"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 28008,
+  "fields": {
+    "parent_code": 28000,
+    "name": "Общества взаимного страхования"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 28010,
+  "fields": {
+    "parent_code": 28000,
+    "name": "Общины коренных малочисленных народов"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 28012,
+  "fields": {
+    "parent_code": 28000,
+    "name": "Объединения работодателей"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 28013,
+  "fields": {
+    "parent_code": 28000,
+    "name": "Объединения (союзы) крестьянских (фермерских) хозяйств"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 28014,
+  "fields": {
+    "parent_code": 28000,
+    "name": "Отделения иностранных некоммерческих неправительственных организаций"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 28016,
+  "fields": {
+    "parent_code": 28000,
+    "name": "Товарищества собственников жилья"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 28017,
+  "fields": {
+    "parent_code": 28000,
+    "name": "Территориальные общественные самоуправления"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 29000,
+  "fields": {
+    "parent_code": 20000,
+    "name": "Иные некоммерческие организации, не включенные в другие группировки"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 30000,
+  "fields": {
+    "parent_code": null,
+    "name": "ОРГАНИЗАЦИОННО-ПРАВОВЫЕ ФОРМЫ ОРГАНИЗАЦИЙ, СОЗДАННЫХ БЕЗ ПРАВ ЮРИДИЧЕСКОГО ЛИЦА"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 30001,
+  "fields": {
+    "parent_code": 30000,
+    "name": "Представительства юридических лиц"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 30002,
+  "fields": {
+    "parent_code": 30000,
+    "name": "Филиалы юридических лиц"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 30003,
+  "fields": {
+    "parent_code": 30000,
+    "name": "Обособленные подразделения юридических лиц"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 30004,
+  "fields": {
+    "parent_code": 30000,
+    "name": "Структурные подразделения обособленных подразделений юридических лиц"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 30005,
+  "fields": {
+    "parent_code": 30000,
+    "name": "Паевые инвестиционные фонды"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 30006,
+  "fields": {
+    "parent_code": 30000,
+    "name": "Простые товарищества"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 30008,
+  "fields": {
+    "parent_code": 30000,
+    "name": "Районные суды, городские суды, межрайонные суды (районные суды)"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 40000,
+  "fields": {
+    "parent_code": null,
+    "name": "ОРГАНИЗАЦИОННО-ПРАВОВЫЕ ФОРМЫ МЕЖДУНАРОДНЫХ ОРГАНИЗАЦИЙ, ОСУЩЕСТВЛЯЮЩИХ ДЕЯТЕЛЬНОСТЬ НА ТЕРРИТОРИИ РОССИЙСКОЙ ФЕДЕРАЦИИ"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 40001,
+  "fields": {
+    "parent_code": 40000,
+    "name": "Межправительственные международные организации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 40002,
+  "fields": {
+    "parent_code": 40000,
+    "name": "Неправительственные международные организации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 50000,
+  "fields": {
+    "parent_code": null,
+    "name": "ОРГАНИЗАЦИОННО-ПРАВОВЫЕ ФОРМЫ ДЛЯ ДЕЯТЕЛЬНОСТИ ГРАЖДАН (ФИЗИЧЕСКИХ ЛИЦ)"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 50100,
+  "fields": {
+    "parent_code": 50000,
+    "name": "Организационно-правовые формы для коммерческой деятельности граждан"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 50101,
+  "fields": {
+    "parent_code": 50100,
+    "name": "Главы крестьянских (фермерских) хозяйств"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 50102,
+  "fields": {
+    "parent_code": 50100,
+    "name": "Индивидуальные предприниматели"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 50200,
+  "fields": {
+    "parent_code": 50000,
+    "name": "Организационно-правовые формы для деятельности граждан, не отнесенной к предпринимательству"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 50201,
+  "fields": {
+    "parent_code": 50200,
+    "name": "Адвокаты, учредившие адвокатский кабинет"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 50202,
+  "fields": {
+    "parent_code": 50200,
+    "name": "Нотариусы, занимающиеся частной практикой"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 60000,
+  "fields": {
+    "parent_code": null,
+    "name": "ОРГАНИЗАЦИОННО-ПРАВОВЫЕ ФОРМЫ ЮРИДИЧЕСКИХ ЛИЦ, ЯВЛЯЮЩИХСЯ КОММЕРЧЕСКИМИ УНИТАРНЫМИ ОРГАНИЗАЦИЯМИ"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 65000,
+  "fields": {
+    "parent_code": 60000,
+    "name": "Унитарные предприятия"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 65100,
+  "fields": {
+    "parent_code": 60000,
+    "name": "Унитарные предприятия, основанные на праве оперативного управления (казенные предприятия)"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 65141,
+  "fields": {
+    "parent_code": 65100,
+    "name": "Федеральные казенные предприятия"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 65142,
+  "fields": {
+    "parent_code": 65100,
+    "name": "Казенные предприятия субъектов Российской Федерации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 65143,
+  "fields": {
+    "parent_code": 65100,
+    "name": "Муниципальные казенные предприятия"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 65200,
+  "fields": {
+    "parent_code": 60000,
+    "name": "Унитарные предприятия, основанные на праве хозяйственного ведения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 65241,
+  "fields": {
+    "parent_code": 65200,
+    "name": "Федеральные государственные унитарные предприятия"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 65242,
+  "fields": {
+    "parent_code": 65200,
+    "name": "Государственные унитарные предприятия субъектов Российской Федерации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 65243,
+  "fields": {
+    "parent_code": 65200,
+    "name": "Муниципальные унитарные предприятия"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 70000,
+  "fields": {
+    "parent_code": null,
+    "name": "ОРГАНИЗАЦИОННО-ПРАВОВЫЕ ФОРМЫ ЮРИДИЧЕСКИХ ЛИЦ, ЯВЛЯЮЩИХСЯ НЕКОММЕРЧЕСКИМИ УНИТАРНЫМИ ОРГАНИЗАЦИЯМИ"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 70400,
+  "fields": {
+    "parent_code": 70000,
+    "name": "Фонды"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 70401,
+  "fields": {
+    "parent_code": 70400,
+    "name": "Благотворительные фонды"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 70402,
+  "fields": {
+    "parent_code": 70400,
+    "name": "Негосударственные пенсионные фонды"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 70403,
+  "fields": {
+    "parent_code": 70400,
+    "name": "Общественные фонды"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 70404,
+  "fields": {
+    "parent_code": 70400,
+    "name": "Экологические фонды"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 71400,
+  "fields": {
+    "parent_code": 70000,
+    "name": "Автономные некоммерческие организации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 71500,
+  "fields": {
+    "parent_code": 70000,
+    "name": "Религиозные организации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 71600,
+  "fields": {
+    "parent_code": 70000,
+    "name": "Публично-правовые компании"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 71601,
+  "fields": {
+    "parent_code": 71600,
+    "name": "Государственные корпорации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 71602,
+  "fields": {
+    "parent_code": 71600,
+    "name": "Государственные компании"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 71610,
+  "fields": {
+    "parent_code": 71600,
+    "name": "Отделения иностранных некоммерческих неправительственных организаций"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 75000,
+  "fields": {
+    "parent_code": 70000,
+    "name": "Учреждения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 75100,
+  "fields": {
+    "parent_code": 70000,
+    "name": "Учреждения, созданные Российской Федерацией"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 75101,
+  "fields": {
+    "parent_code": 75100,
+    "name": "Федеральные государственные автономные учреждения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 75103,
+  "fields": {
+    "parent_code": 75100,
+    "name": "Федеральные государственные бюджетные учреждения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 75104,
+  "fields": {
+    "parent_code": 75100,
+    "name": "Федеральные государственные казенные учреждения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 75200,
+  "fields": {
+    "parent_code": 70000,
+    "name": "Учреждения, созданные субъектом Российской Федерации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 75201,
+  "fields": {
+    "parent_code": 75200,
+    "name": "Государственные автономные учреждения субъектов Российской Федерации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 75203,
+  "fields": {
+    "parent_code": 75200,
+    "name": "Государственные бюджетные учреждения субъектов Российской Федерации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 75204,
+  "fields": {
+    "parent_code": 75200,
+    "name": "Государственные казенные учреждения субъектов Российской Федерации"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 75300,
+  "fields": {
+    "parent_code": 70000,
+    "name": "Государственные академии наук"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 75400,
+  "fields": {
+    "parent_code": 70000,
+    "name": "Учреждения, созданные муниципальным образованием (муниципальные учреждения)"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 75401,
+  "fields": {
+    "parent_code": 75400,
+    "name": "Муниципальные автономные учреждения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 75403,
+  "fields": {
+    "parent_code": 75400,
+    "name": "Муниципальные бюджетные учреждения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 75404,
+  "fields": {
+    "parent_code": 75400,
+    "name": "Муниципальные казенные учреждения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 75500,
+  "fields": {
+    "parent_code": 70000,
+    "name": "Частные учреждения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 75502,
+  "fields": {
+    "parent_code": 75500,
+    "name": "Благотворительные учреждения"
+  }
+},
+{
+  "model": "companies.okopf",
+  "pk": 75505,
+  "fields": {
+    "parent_code": 75500,
+    "name": "Общественные учреждения"
+  }
+}
+]

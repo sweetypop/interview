@@ -1,0 +1,604 @@
+[
+{
+  "model": "companies.region",
+  "pk": 1,
+  "fields": {
+    "name": "Республика Адыгея"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 2,
+  "fields": {
+    "name": "Республика Башкортостан"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 3,
+  "fields": {
+    "name": "Республика Бурятия"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 4,
+  "fields": {
+    "name": "Республика Алтай"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 5,
+  "fields": {
+    "name": "Республика Дагестан"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 6,
+  "fields": {
+    "name": "Республика Ингушетия"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 7,
+  "fields": {
+    "name": "Кабардино-Балкарская республика"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 8,
+  "fields": {
+    "name": "Республика Калмыкия"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 9,
+  "fields": {
+    "name": "Карачаево-Черкесская республика"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 10,
+  "fields": {
+    "name": "Республика Карелия"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 11,
+  "fields": {
+    "name": "Республика Коми"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 12,
+  "fields": {
+    "name": "Республика Марий Эл"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 13,
+  "fields": {
+    "name": "Республика Мордовия"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 14,
+  "fields": {
+    "name": "Республика Саха (Якутия)"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 15,
+  "fields": {
+    "name": "Республика Северная Осетия — Алания"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 16,
+  "fields": {
+    "name": "Республика Татарстан"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 17,
+  "fields": {
+    "name": "Республика Тыва"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 18,
+  "fields": {
+    "name": "Удмуртская республика"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 19,
+  "fields": {
+    "name": "Республика Хакасия"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 20,
+  "fields": {
+    "name": "Чеченская республика"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 21,
+  "fields": {
+    "name": "Чувашская республика"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 22,
+  "fields": {
+    "name": "Алтайский край"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 23,
+  "fields": {
+    "name": "Краснодарский край"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 24,
+  "fields": {
+    "name": "Красноярский край"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 25,
+  "fields": {
+    "name": "Приморский край"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 26,
+  "fields": {
+    "name": "Ставропольский край"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 27,
+  "fields": {
+    "name": "Хабаровский край"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 28,
+  "fields": {
+    "name": "Амурская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 29,
+  "fields": {
+    "name": "Архангельская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 30,
+  "fields": {
+    "name": "Астраханская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 31,
+  "fields": {
+    "name": "Белгородская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 32,
+  "fields": {
+    "name": "Брянская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 33,
+  "fields": {
+    "name": "Владимирская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 34,
+  "fields": {
+    "name": "Волгоградская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 35,
+  "fields": {
+    "name": "Вологодская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 36,
+  "fields": {
+    "name": "Воронежская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 37,
+  "fields": {
+    "name": "Ивановская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 38,
+  "fields": {
+    "name": "Иркутская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 39,
+  "fields": {
+    "name": "Калининградская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 40,
+  "fields": {
+    "name": "Калужская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 41,
+  "fields": {
+    "name": "Камчатский край"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 42,
+  "fields": {
+    "name": "Кемеровская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 43,
+  "fields": {
+    "name": "Кировская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 44,
+  "fields": {
+    "name": "Костромская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 45,
+  "fields": {
+    "name": "Курганская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 46,
+  "fields": {
+    "name": "Курская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 47,
+  "fields": {
+    "name": "Ленинградская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 48,
+  "fields": {
+    "name": "Липецкая область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 49,
+  "fields": {
+    "name": "Магаданская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 50,
+  "fields": {
+    "name": "Московская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 51,
+  "fields": {
+    "name": "Мурманская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 52,
+  "fields": {
+    "name": "Нижегородская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 53,
+  "fields": {
+    "name": "Новгородская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 54,
+  "fields": {
+    "name": "Новосибирская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 55,
+  "fields": {
+    "name": "Омская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 56,
+  "fields": {
+    "name": "Оренбургская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 57,
+  "fields": {
+    "name": "Орловская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 58,
+  "fields": {
+    "name": "Пензенская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 59,
+  "fields": {
+    "name": "Пермский край"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 60,
+  "fields": {
+    "name": "Псковская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 61,
+  "fields": {
+    "name": "Ростовская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 62,
+  "fields": {
+    "name": "Рязанская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 63,
+  "fields": {
+    "name": "Самарская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 64,
+  "fields": {
+    "name": "Саратовская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 65,
+  "fields": {
+    "name": "Сахалинская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 66,
+  "fields": {
+    "name": "Свердловская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 67,
+  "fields": {
+    "name": "Смоленская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 68,
+  "fields": {
+    "name": "Тамбовская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 69,
+  "fields": {
+    "name": "Тверская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 70,
+  "fields": {
+    "name": "Томская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 71,
+  "fields": {
+    "name": "Тульская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 72,
+  "fields": {
+    "name": "Тюменская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 73,
+  "fields": {
+    "name": "Ульяновская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 74,
+  "fields": {
+    "name": "Челябинская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 75,
+  "fields": {
+    "name": "Забайкальский край"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 76,
+  "fields": {
+    "name": "Ярославская область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 77,
+  "fields": {
+    "name": "Москва"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 78,
+  "fields": {
+    "name": "Санкт-Петербург"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 79,
+  "fields": {
+    "name": "Еврейская автономная область"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 83,
+  "fields": {
+    "name": "Ненецкий автономный округ"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 86,
+  "fields": {
+    "name": "Ханты-Мансийский автономный округ - Югра"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 87,
+  "fields": {
+    "name": "Чукотский автономный округ"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 89,
+  "fields": {
+    "name": "Ямало-Ненецкий автономный округ"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 91,
+  "fields": {
+    "name": "Республика Крым"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 92,
+  "fields": {
+    "name": "Севастополь"
+  }
+},
+{
+  "model": "companies.region",
+  "pk": 94,
+  "fields": {
+    "name": "Байконур"
+  }
+}
+]

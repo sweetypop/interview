@@ -1,0 +1,18 @@
+# backend
+__pycache__/
+backend/assets/
+backend/venv/
+backend/db.sqlite3
+
+# frontend
+frontend/node_modules/
+bundle-size-report.html
+
+# development
+.vscode/
+.idea/
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+*.log

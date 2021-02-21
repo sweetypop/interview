@@ -1,0 +1,48 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "Frontend for code interview.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "serve": "webpack serve --mode=development --env development",
+    "build": "webpack --mode=production --env production"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": "^12.20.2",
+    "npm": "^6.14.11"
+  },
+  "dependencies": {
+    "@mdi/font": "^5.9.55",
+    "axios": "^0.21.1",
+    "lodash": "^4.17.20",
+    "vue": "^2.6.12",
+    "vue-meta": "^2.4.0",
+    "vue-router": "^3.5.1",
+    "vuetify": "^2.4.0",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^5.0.1",
+    "css-minimizer-webpack-plugin": "^1.2.0",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^4.5.0",
+    "mini-css-extract-plugin": "^1.3.0",
+    "sass": "^1.29.0",
+    "sass-loader": "^10.0.5",
+    "source-map-loader": "^2.0.1",
+    "style-loader": "^2.0.0",
+    "terser-webpack-plugin": "^5.1.1",
+    "url-loader": "^4.1.1",
+    "vue-loader": "^15.9.5",
+    "vue-template-compiler": "^2.6.12",
+    "vuetify-loader": "^1.7.2",
+    "webpack": "^5.4.0",
+    "webpack-bundle-analyzer": "^4.4.0",
+    "webpack-bundle-tracker": "^0.4.3",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}

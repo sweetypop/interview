@@ -1,0 +1,72 @@
+[
+{
+  "model": "companies.company",
+  "pk": 1,
+  "fields": {
+    "name": "Плохо заполненная компания",
+    "inn": "7707083777",
+    "kpp": "773601777",
+    "registration_date": "2002-08-16",
+    "email": null,
+    "link": null,
+    "region": 77,
+    "okopf": 12247
+  }
+},
+{
+  "model": "companies.company",
+  "pk": 2,
+  "fields": {
+    "name": "Корпоративный университет Сбербанка",
+    "inn": "7736128605",
+    "kpp": "773601001",
+    "registration_date": "2012-03-13",
+    "email": "Zabolotnaya.Va@sberbank.ru",
+    "link": "https://sberbank-university.ru/",
+    "region": 77,
+    "okopf": 71400
+  }
+},
+{
+  "model": "companies.company",
+  "pk": 3,
+  "fields": {
+    "name": "Сбербанк Лизинг",
+    "inn": "7707009586",
+    "kpp": "503201001",
+    "registration_date": "2010-02-01",
+    "email": "torgi@sberleasing.ru",
+    "link": "http://www.sberleasing.ru",
+    "region": 50,
+    "okopf": 12267
+  }
+},
+{
+  "model": "companies.company",
+  "pk": 4,
+  "fields": {
+    "name": "ВТБ Страхование",
+    "inn": "7702263726",
+    "kpp": "770101001",
+    "registration_date": "2017-06-01",
+    "email": "nvm_99@mail.ru",
+    "link": null,
+    "region": 77,
+    "okopf": 12300
+  }
+},
+{
+  "model": "companies.company",
+  "pk": 5,
+  "fields": {
+    "name": "МТС-банк",
+    "inn": "7702045051",
+    "kpp": "772501001",
+    "registration_date": "2017-01-06",
+    "email": "ifilatov@mtsbank.ru",
+    "link": "https://www.mtsbank.ru/",
+    "region": 77,
+    "okopf": 12247
+  }
+}
+]
